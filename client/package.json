@@ -10,7 +10,7 @@
     "@types/yup": "^0.26.9",
     "@types/react-dropzone":"4.2.2",
     "concurrently": "^4.1.0",
-    "graphql-code-generator": "^0.16.0",
+    "graphql-code-generator": "^0.18.2",
     "graphql-codegen-typescript-client": "^0.16.0",
     "graphql-codegen-typescript-common": "^0.16.0",
     "nodemon": "^1.18.10",
